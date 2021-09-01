@@ -8,7 +8,7 @@ It's funny that, i graduated from the Technical University as an engineer of roc
  
 ## GIRL IN DATA SCIENCE 👩‍💻
 
-![image](https://user-images.githubusercontent.com/85830550/131670939-388f12e9-ec26-4691-979e-85505f08addf.png)
+![image](https://user-images.githubusercontent.com/85830550/131677591-98dc9957-910a-4531-87aa-1023087749ea.png)
 
 
 🔭Contact me:
