@@ -6,7 +6,7 @@ It's funny that, i graduated from the Technical University as an engineer of roc
 <img src="/images.jpeg">
 
 
-🔭Contact me:
+###🔭Contact me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arinasuper)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arina-shkanova-66493621b)
