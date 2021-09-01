@@ -9,7 +9,6 @@ It's funny that, i graduated from the Technical University as an engineer of roc
 🔭Contact me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arinasuper)
-
 ![CodeWars](https://www.codewars.com/users/arinashkanova/badges/large)
 
 
