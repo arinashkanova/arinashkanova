@@ -1,7 +1,7 @@
 ## Some information about me 👋
 
 Data Science's often compared to Rocket Science and it's considered to be easier.
-It's funny that, i graduated from the Technical University as an engineer of rocket constractions and **i have another opinion**.
+It's funny that, i graduated from the Technical University as an engineer of rocket constractions and ***i have another opinion***.
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
