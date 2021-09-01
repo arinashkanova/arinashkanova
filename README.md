@@ -6,8 +6,8 @@ It's funny that, i graduated from the Technical University as an engineer of roc
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
  
- Girl in DATA SCIENCE
-(https://blog.hackerrank.com/wp-content/uploads/2019/07/data-scientist-hiring-guide.png)
+ [![GIRL IN DATA SCIENCE]
+(https://img.shields.io/twitter/url?url=https%3A%2F%2Fblog.hackerrank.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fdata-scientist-hiring-guide.png)]
 
 🔭Contact me:
 
